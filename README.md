@@ -1,2 +1,2 @@
 # thruster
-mind map of the collective conscience or just a single universal chat.
+thruster is a universal integrated logical text with a multidimensional visual grammar
